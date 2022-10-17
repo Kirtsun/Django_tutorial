@@ -1,1 +1,2 @@
-# Django_tutorial
+Completed Django tutorial
+
